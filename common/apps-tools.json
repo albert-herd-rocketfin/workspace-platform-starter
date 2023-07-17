@@ -17,7 +17,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "http://localhost:8080/common/images/previews/tools/openfin-notification-studio.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/previews/tools/openfin-notification-studio.png"
 			}
 		],
 		"tags": ["hero", "manifest", "tools"]
@@ -40,7 +40,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "http://localhost:8080/common/images/previews/tools/openfin-process-manager.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/previews/tools/openfin-process-manager.png"
 			}
 		],
 		"tags": ["hero", "manifest", "tools"]

@@ -1,12 +1,12 @@
 {
-	"url": "http://localhost:8080/common/views/contact/investments-and-models/index.html",
+	"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/views/contact/investments-and-models/index.html",
 	"fdc3InteropApi": "1.2",
 	"interop": {
 		"currentContextGroup": "green"
 	},
 	"preloadScripts": [
 		{
-			"url": "http://localhost:8080/common/style/style-changed-preload.js"
+			"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/style/style-changed-preload.js"
 		}
 	]
 }

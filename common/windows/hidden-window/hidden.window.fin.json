@@ -7,6 +7,6 @@
 	"fdc3InteropApi": "1.2",
 	"height": 500,
 	"width": 800,
-	"url": "http://localhost:8080/common/windows/hidden-window/hidden.html",
+	"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/windows/hidden-window/hidden.html",
 	"processAffinity": "custom-affinity"
 }

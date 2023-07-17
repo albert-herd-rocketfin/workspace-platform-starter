@@ -1,10 +1,10 @@
 {
-	"url": "http://localhost:8080/common/style/style.html",
+	"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/style/style.html",
 	"fdc3InteropApi": "1.2",
 	"customData": {},
 	"preloadScripts": [
 		{
-			"url": "http://localhost:8080/common/style/style-changed-preload.js"
+			"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/style/style-changed-preload.js"
 		}
 	]
 }

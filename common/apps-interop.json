@@ -8,7 +8,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "http://localhost:8080/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -31,7 +31,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "http://localhost:8080/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",

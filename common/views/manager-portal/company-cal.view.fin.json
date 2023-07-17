@@ -1,5 +1,5 @@
 {
-	"url": "http://localhost:8080/common/views/manager-portal/company-cal/index.html",
+	"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/views/manager-portal/company-cal/index.html",
 	"fdc3InteropApi": "1.2",
 	"interop": {
 		"currentContextGroup": "orange"

@@ -12,9 +12,9 @@
 	"platform": {
 		"uuid": "fourth-workspace-starter-how-to-workspace-platform-starter",
 		"name": "fourth-workspace-starter-how-to-workspace-platform-starter",
-		"icon": "http://localhost:8080/common/favicon-32x32.png",
+		"icon": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/favicon-32x32.png",
 		"autoShow": false,
-		"providerUrl": "http://localhost:8080/shell/shell.html",
+		"providerUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastershell/shell.html",
 		"preventQuitOnLastWindowClosed": true,
 		"permissions": {
 			"System": {
@@ -50,19 +50,19 @@
 		"platformProvider": {
 			"rootUrl": "http://localhost:8080",
 			"sharing": true,
-			"initUrl": "http://localhost:8080/js/provider.bundle.js"
+			"initUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/masterjs/provider.bundle.js"
 		},
 		"authProvider": {
 			"modules": [
 				{
 					"title": "Example Authentication",
 					"id": "example",
-					"url": "http://localhost:8080/js/modules/auth/example.bundle.js",
+					"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/masterjs/modules/auth/example.bundle.js",
 					"data": {
 						"autoLogin": false,
-						"loginUrl": "http://localhost:8080/windows/modules/auth/example-login.html",
-						"logoutUrl": "http://localhost:8080/windows/modules/auth/example-logged-out.html",
-						"authenticatedUrl": "http://localhost:8080/windows/modules/auth/example-logged-in.html",
+						"loginUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/masterwindows/modules/auth/example-login.html",
+						"logoutUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/masterwindows/modules/auth/example-logged-out.html",
+						"authenticatedUrl": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/masterwindows/modules/auth/example-logged-in.html",
 						"checkLoginStatusInSeconds": 1,
 						"checkSessionValidityInSeconds": -1
 					}
@@ -77,7 +77,7 @@
 					"type": "fetch",
 					"options": {
 						"method": "GET",
-						"url": "http://localhost:8080/settings.json"
+						"url": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastersettings.json"
 					}
 				}
 			]

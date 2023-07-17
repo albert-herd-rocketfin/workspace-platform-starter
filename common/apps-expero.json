@@ -16,7 +16,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "http://localhost:8080/common/images/previews/expero/expero-news-view.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/previews/expero/expero-news-view.png"
 			}
 		],
 		"tags": ["expero", "view", "interop"]
@@ -38,7 +38,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "http://localhost:8080/common/images/previews/expero/expero-description-view.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/previews/expero/expero-description-view.png"
 			}
 		],
 		"tags": ["expero", "view", "interop"]
@@ -60,7 +60,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "http://localhost:8080/common/images/previews/expero/expero-stock-view.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/previews/expero/expero-stock-view.png"
 			}
 		],
 		"tags": ["expero", "view", "interop"]

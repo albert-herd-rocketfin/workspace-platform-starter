@@ -6,7 +6,7 @@
 		"description": "A developer tool to help build an app definition",
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v13.0.0/app/app-definition-builder/app-definition-builder-view.json",
 		"manifestType": "view",
-		"icons": [{ "src": "http://localhost:8080/common/images/icon-blue.png" }],
+		"icons": [{ "src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/icon-blue.png" }],
 		"contactEmail": "contact@example.com",
 		"supportEmail": "support@example.com",
 		"publisher": "OpenFin",
@@ -31,7 +31,7 @@
 		"description": "A tool to help in the building of a theme.",
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v13.0.0/branding/theme-definition-builder/theme-definition-builder-view.json",
 		"manifestType": "view",
-		"icons": [{ "src": "http://localhost:8080/common/images/icon-blue.png" }],
+		"icons": [{ "src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/icon-blue.png" }],
 		"contactEmail": "contact@example.com",
 		"supportEmail": "support@example.com",
 		"publisher": "OpenFin",
@@ -50,7 +50,7 @@
 		"description": "A tool to help in the building of a page.",
 		"manifest": "https://built-on-openfin.github.io/dev-extensions/extensions/v13.0.0/layout/views/page-layout-snapshot.json",
 		"manifestType": "snapshot",
-		"icons": [{ "src": "http://localhost:8080/common/images/icon-blue.png" }],
+		"icons": [{ "src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/icon-blue.png" }],
 		"contactEmail": "contact@example.com",
 		"supportEmail": "support@example.com",
 		"publisher": "OpenFin",
@@ -68,10 +68,10 @@
 		"title": "OpenFin Developer Docs",
 		"manifestType": "snapshot",
 		"description": "Shows a collection of OpenFin developer pages and provides an example of how you can present a pre-built page as a launch target in OpenFin Home. This entry has a manifest type of 'snapshot'.",
-		"manifest": "http://localhost:8080/common/snapshots/developer.snapshot.fin.json",
+		"manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/snapshots/developer.snapshot.fin.json",
 		"icons": [
 			{
-				"src": "http://localhost:8080/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
@@ -80,7 +80,7 @@
 		"intents": [],
 		"images": [
 			{
-				"src": "http://localhost:8080/common/images/previews/openfin-page-docs.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/previews/openfin-page-docs.png"
 			}
 		],
 		"tags": ["page", "developer"]
@@ -94,7 +94,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "http://localhost:8080/common/images/icon-blue.png"
+				"src": "https://raw.githubusercontent.com/albert-herd-rocketfin/workspace-platform-starter/mastercommon/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",
